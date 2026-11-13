@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
