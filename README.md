@@ -39,6 +39,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
