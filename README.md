@@ -29,6 +29,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -66,4 +67,24 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
