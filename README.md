@@ -6,12 +6,14 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,4 +59,9 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
