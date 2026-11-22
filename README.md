@@ -14,6 +14,7 @@
 | [0412-fizz-buzz](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0231-power-of-two](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Simulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3206-alternating-groups-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/3206-alternating-groups-i) |
 ## Counting
 |  |
