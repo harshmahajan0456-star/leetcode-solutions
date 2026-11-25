@@ -15,6 +15,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3206-alternating-groups-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/3206-alternating-groups-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting
 |  |
 | ------- |
