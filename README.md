@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
