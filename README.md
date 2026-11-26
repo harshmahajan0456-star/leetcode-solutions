@@ -45,6 +45,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [3206-alternating-groups-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/3206-alternating-groups-i) |
 ## Prefix Sum
@@ -52,6 +53,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
