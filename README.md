@@ -49,6 +49,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [3206-alternating-groups-i](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/3206-alternating-groups-i) |
@@ -69,6 +70,7 @@
 | [0069-sqrtx](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0283-move-zeroes) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshmahajan0456-star/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
